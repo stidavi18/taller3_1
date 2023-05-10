@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proyecto025</string>
+    <string name="btn_botongato">GATO</string>
+    <string name="btn_botonleon">LEON</string>
+</resources>
